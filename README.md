@@ -8,7 +8,7 @@ save the file. The larger the pixel size, the more pixelated the result.
 
 # Credits:
 
-The implementation was taken from https://github.com/imdeep2905/Pixit#Logic-behind-pixelating: however my implmentation
+The implementation was taken from https://github.com/imdeep2905/Pixit#Logic-behind-pixelating: however my implementation
 fixes the issue of having unchanged pixels when the image resolution is not divisible by the selected pixel size.
 
 # Some Examples:
